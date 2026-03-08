@@ -1,0 +1,1 @@
+const plural = (n:number): boolean => n === 0 || n < 1 || n > 1
