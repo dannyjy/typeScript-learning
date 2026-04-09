@@ -1,0 +1,1 @@
+const mouthSize = (animal: string): string => animal === "alligator" ? "small" : "wide"
